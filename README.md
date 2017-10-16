@@ -4,7 +4,7 @@
 * You will need a supported Android device.
 * You will need to get the ARCore SDK for Android Studio. You can either:
 
-Download the SDK preview for Android Studio and extract it.
+Download the SDK preview for [Android Studio](https://github.com/google-ar/arcore-android-sdk/releases/download/sdk-preview/arcore-android-sdk-preview.zip) and extract it.
 
 -or-  
 
