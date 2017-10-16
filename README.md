@@ -6,7 +6,7 @@
 
 Download the SDK preview for Android Studio and extract it.
 
--or-
+-or-  
 Clone the repository: `git clone https://github.com/google-ar/arcore-android-sdk.git`
 
 
